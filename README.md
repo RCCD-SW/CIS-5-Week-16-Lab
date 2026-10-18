@@ -50,12 +50,12 @@ Next:  CS2 — I want file I/O for a real ledger.
 - You can start from a cold clone
 
 ## Rubric (100)
+
 | Criterion | Pts |
 |-----------|----:|
-| Demo follows the beat sheet | 40 |
-| README is followable | 30 |
-| Repo opens cold | 15 |
-| Reflection draft started | 15 |
+| Submitted work | 50 |
+| Video explanation | 50 |
+
 
 ## Scope fence
 No new language features. No new graded coding project.
